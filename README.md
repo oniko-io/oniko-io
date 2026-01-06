@@ -10,14 +10,16 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ch3fxic&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/ch3fxic?logo=github&style=for-the-badge&color=dc143c&labelColor=2f2f2f)](https://github.com/ch3fxic)
+  ![Profile Views](https://komarev.com/ghpvc/?username=cqilg&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
+  [![GitHub followers](https://img.shields.io/github/followers/cqilg?logo=github&style=for-the-badge&color=dc143c&labelColor=2f2f2f)](https://github.com/cqilg)
   
 </div>
 
 ---
 
 ## 💫 About Me
+
+> *"the night belongs to those who build."*
 
 ```python
 class Ch3fXic:
@@ -74,16 +76,16 @@ class Ch3fXic:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ch3fxic&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch3fxic&layout=compact&theme=radical&hide_border=true&title_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cqilg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqilg&layout=compact&theme=radical&hide_border=true&title_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch3fxic&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=FFC0CB" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cqilg&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=FFC0CB" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch3fxic&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=DC143C&line=DC143C&point=FFC0CB" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cqilg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=DC143C&line=DC143C&point=FFC0CB" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -91,7 +93,7 @@ class Ch3fXic:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ch3fxic&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cqilg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -189,7 +191,7 @@ class Ch3fXic:
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chef_xic)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ch3fxic)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cqilg)
 
 [![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:void@oniko.space)
 [![TikTok](https://img.shields.io/badge/TikTok-DC143C?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chef_xic)
