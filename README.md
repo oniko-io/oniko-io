@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ch3fXic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=cqilg&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+Discord+Specialist;Web+Designer+%7C+Digital+Strategist;Security+Enthusiast+%7C+Open+Source;Building+Tomorrow's+Solutions+Today!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Discord+Bot+Developer+%7C+Full+Stack+Engineer;Web+Automation+%7C+OSINT+Solutions;Astro+%2B+Tailwind+Specialist+%7C+Security+First;Building+Tomorrow's+Solutions+Today!)](https://git.io/typing-svg)
   
 </div>
 
@@ -12,6 +12,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=cqilg&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
   [![GitHub followers](https://img.shields.io/github/followers/cqilg?logo=github&style=for-the-badge&color=dc143c&labelColor=2f2f2f)](https://github.com/cqilg)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-oniko.space-DC143C?style=for-the-badge&logo=world&logoColor=white)](https://www.oniko.space)
   
 </div>
 
@@ -22,23 +23,26 @@
 > *"the night belongs to those who build."*
 
 ```python
-class Ch3fXic:
+class cqilg:
     def __init__(self):
-        self.name = "Ch3fXic"
-        self.role = "Full Stack Developer & Digital Strategist"
+        self.name = "cqilg"
+        self.role = "Discord Bot Developer & Full Stack Engineer"
+        self.focus = "Discord bots, Web automation, Astro sites & OSINT solutions"
         self.location = "🌍 Global"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS", "Bash"]
+        self.languages = ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "Bash"]
+        self.portfolio = "https://www.oniko.space"
         
-    def get_expertise(self):
+    def expertise(self):
         return {
-            "discord_development": ["Bots", "Automation", "Community Tools"],
-            "web_development": ["Responsive Design", "E-commerce", "Portfolios"],
-            "digital_marketing": ["SMM", "Growth Strategies", "Brand Development"],
-            "security": ["Ethical Hacking", "Linux Optimization", "Security Tools"]
+            "discord_development": ["Bots", "Slash Commands", "Automation", "Dashboards", "Community Tools"],
+            "web_development": ["Astro", "Tailwind CSS", "Responsive Design", "Static Sites", "SEO-Optimized"],
+            "automation": ["Node.js Workflows", "Python Scripts", "Schedulers", "API Integrations"],
+            "security": ["OSINT Research", "Ethical Hacking", "Security Hardening", "Safe Secrets Handling"],
+            "tools": ["TypeScript", "Discord.js", "FastAPI", "PostgreSQL", "Linux"]
         }
     
     def current_focus(self):
-        return "🚀 Building innovative Discord bots and web solutions"
+        return "🚀 Discord bots, static site generators, automation workflows, and OSINT-backed builds"
 ```
 
 ---
@@ -50,14 +54,18 @@ class Ch3fXic:
 ### Languages & Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks & Libraries
+### Discord & Web Frameworks
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,11 +73,45 @@ class Ch3fXic:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Design Tools
+### Design & OSINT
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-DC143C?style=for-the-badge&logoColor=white)
 
 </div>
+
+---
+
+---
+
+## 🎯 Featured Services
+
+### 🤖 Discord Bot Development
+- Custom bots with slash commands, buttons, and moderation
+- Dashboard integrations for server management
+- TypeScript + Discord.js for production stability
+- Community automation and engagement tools
+
+### 🌐 Full-Stack Web Solutions
+- **Astro + Tailwind CSS** static sites
+- SEO-optimized, fast-loading portfolios
+- Responsive design for all devices
+- Deployed on Netlify with security-first approach
+
+### ⚙️ Automation & Integration
+- Node.js/Python workflow automation
+- Cron schedulers and API integrations
+- Data processing and reporting pipelines
+- Reduce manual work, eliminate errors
+
+### 🔍 OSINT & Security
+- Open-source intelligence research
+- Digital footprint analysis
+- Security hardening and best practices
+- Safe secrets and sensitive data handling
 
 ---
 
@@ -105,47 +147,47 @@ class Ch3fXic:
 <td width="50%" valign="top">
 
 ### 🤖 Discord Development
-- ✅ Custom bot architecture & design
-- ✅ Advanced automation systems
-- ✅ Community management tools
-- ✅ Database integration
-- ✅ API integration & webhooks
-- ✅ 100+ bots delivered successfully
+- ✅ Slash commands & button interactions
+- ✅ Moderation & auto-mod systems
+- ✅ Dashboard integrations
+- ✅ Event handling & custom workflows
+- ✅ TypeScript + Discord.js
+- ✅ Production-ready code
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Web Development
-- ✅ Responsive & mobile-first design
-- ✅ E-commerce solutions
-- ✅ Portfolio & business websites
-- ✅ Modern UI/UX implementation
-- ✅ Performance optimization
-- ✅ SEO-friendly architecture
+- ✅ Astro + Tailwind CSS sites
+- ✅ Static site generation
+- ✅ SEO-optimized architecture
+- ✅ Performance & accessibility first
+- ✅ Netlify deployment ready
+- ✅ Security-hardened defaults
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Digital Marketing
-- ✅ Social media growth strategies
-- ✅ Instagram & TikTok optimization
-- ✅ Brand visibility enhancement
-- ✅ Content strategy development
-- ✅ Analytics & performance tracking
-- ✅ Proven ROI improvement
+### ⚙️ Automation & Integration
+- ✅ Node.js/Python workflows
+- ✅ Cron schedulers
+- ✅ API integrations
+- ✅ Data processing pipelines
+- ✅ Custom chatbots
+- ✅ Error-free automation
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Security & Systems
-- ✅ Ethical hacking practices
-- ✅ Linux system optimization
-- ✅ Security tool development
-- ✅ Penetration testing basics
-- ✅ Network security awareness
-- ✅ Continuous learning & updates
+### 🔍 OSINT & Security
+- ✅ Open-source intelligence research
+- ✅ Digital footprint analysis
+- ✅ Security hardening
+- ✅ Safe secrets management
+- ✅ Best practices implementation
+- ✅ Threat assessment
 
 </td>
 </tr>
@@ -153,36 +195,39 @@ class Ch3fXic:
 
 ---
 
-## 🌟 Achievements & Milestones
+## 🎯 Why Choose cqilg?
 
 <div align="center">
 
-| Achievement | Description | Status |
-|------------|-------------|--------|
-| 🎯 **100+ Projects** | Successfully completed Discord bot projects | ✅ Achieved |
-| 🔒 **Security Certified** | Certified Ethical Hacker (Beginner Level) | ✅ Certified |
-| 📱 **SMM Expert 2024** | Recognized Social Media Growth Specialist | ✅ Awarded |
-| 💼 **Client Satisfaction** | 100% positive feedback rate | ✅ Maintained |
-| 🚀 **Innovation Leader** | Pioneering new automation solutions | 🔄 Ongoing |
+| Factor | Benefit |
+|--------|---------|
+| ⚡ **Fast Delivery** | Production-ready code without lengthy timelines |
+| 🔒 **Security-First** | Hardened code, safe secrets, OSINT-backed decisions |
+| 📊 **Proven Track Record** | Successful Discord bots, automation, and web projects |
+| 🤝 **Communication** | Clear updates, responsive to feedback, collaborative |
+| 🚀 **Modern Stack** | Discord.js, Astro, TypeScript, FastAPI, Node.js |
+| 🌍 **Worldwide** | Available globally for projects of any scope |
 
 </div>
 
 ---
 
-## 💬 Client Testimonials
+## 📋 FAQ
 
-<div align="center">
+**Q: What Discord bots can you build?**  
+A: Moderation, auto-mod, custom slash commands, dashboards, and integrations with Discord.js + TypeScript.
 
-> 💼 *"Ch3fXic delivered exceptional Discord bot functionality with rapid deployment. The automation saved us countless hours!"*  
-> **— Tech Startup Client**
+**Q: Can you handle end-to-end website delivery?**  
+A: Yes. I ship responsive Astro + Tailwind sites with SEO, clean UX, and static hosting on Netlify.
 
-> 📈 *"Outstanding results in social media growth campaigns. Our engagement increased by 300% in just 2 months!"*  
-> **— Marketing Agency Partner**
+**Q: Do you offer automation and scripting?**  
+A: Absolutely. Node.js/Python workflows, schedulers, and API integrations to remove manual work.
 
-> 🎨 *"Professional web design with excellent attention to detail. The final product exceeded our expectations!"*  
-> **— Business Owner**
+**Q: Do you include security and OSINT?**  
+A: Yes. I apply hardening practices, safe secrets handling, and OSINT research for due diligence.
 
-</div>
+**Q: How are prices determined?**  
+A: Custom quotes based on project scope. Contact me to discuss your needs.
 
 ---
 
@@ -190,14 +235,13 @@ class Ch3fXic:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chef_xic)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cqilg)
+### 💼 Portfolio & Services
+[![Portfolio](https://img.shields.io/badge/Portfolio-oniko.space-DC143C?style=for-the-badge&logo=world&logoColor=white)](https://www.oniko.space)
 
-[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:void@oniko.space)
-[![TikTok](https://img.shields.io/badge/TikTok-DC143C?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@chef_xic)
-[![Threads](https://img.shields.io/badge/Threads-DC143C?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@chef_xic)
 
-### 📧 Open for Collaborations & Projects!
+### 🤝 **Open for Collaborations & Project Inquiries**
+
+Feel free to reach out for Discord bot development, web automation, Astro sites, or OSINT research. Let's build something great together!
 
 </div>
 
