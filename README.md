@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=cqilg&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=oniko-io&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
 <div align="center">
@@ -10,8 +10,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=cqilg&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/cqilg?logo=github&style=for-the-badge&color=dc143c&labelColor=2f2f2f)](https://github.com/cqilg)
+  ![Profile Views](https://komarev.com/ghpvc/?username=oniko-io&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
+  [![GitHub followers](https://img.shields.io/github/followers/oniko-io?logo=github&style=for-the-badge&color=dc143c&labelColor=2f2f2f)](https://github.com/oniko-io)
   [![Portfolio](https://img.shields.io/badge/Portfolio-oniko.space-DC143C?style=for-the-badge&logo=world&logoColor=white)](https://www.oniko.space)
   
 </div>
@@ -23,9 +23,9 @@
 > *"the night belongs to those who build."*
 
 ```python
-class cqilg:
+class OnikoIO:
     def __init__(self):
-        self.name = "cqilg"
+        self.name = "oniko-io"
         self.role = "Discord Bot Developer & Full Stack Engineer"
         self.focus = "Discord bots, Web automation, Astro sites & OSINT solutions"
         self.location = "🌍 Global"
@@ -118,16 +118,16 @@ class cqilg:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cqilg&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqilg&layout=compact&theme=radical&hide_border=true&title_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oniko-io&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oniko-io&layout=compact&theme=radical&hide_border=true&title_color=DC143C&text_color=FFC0CB&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cqilg&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=FFC0CB" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oniko-io&theme=radical&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=FFC0CB" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cqilg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=DC143C&line=DC143C&point=FFC0CB" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oniko-io&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=DC143C&line=DC143C&point=FFC0CB" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -135,7 +135,7 @@ class cqilg:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cqilg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=oniko-io&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -195,7 +195,7 @@ class cqilg:
 
 ---
 
-## 🎯 Why Choose cqilg?
+## 🎯 Why Choose oniko-io?
 
 <div align="center">
 
