@@ -12,7 +12,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=oniko-io&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
   [![GitHub followers](https://img.shields.io/github/followers/oniko-io?logo=github&style=for-the-badge&color=dc143c&labelColor=2f2f2f)](https://github.com/oniko-io)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-oniko.space-DC143C?style=for-the-badge&logo=world&logoColor=white)](https://www.oniko.space)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-oniko.dev-DC143C?style=for-the-badge&logo=world&logoColor=white)](https://www.oniko.dev)
   
 </div>
 
@@ -30,7 +30,7 @@ class OnikoIO:
         self.focus = "Discord bots, Web automation, Astro sites & OSINT solutions"
         self.location = "🌍 Global"
         self.languages = ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "Bash"]
-        self.portfolio = "https://www.oniko.space"
+        self.portfolio = "https://www.oniko.dev"
         
     def expertise(self):
         return {
@@ -236,7 +236,7 @@ A: Custom quotes based on project scope. Contact me to discuss your needs.
 <div align="center">
 
 ### 💼 Portfolio & Services
-[![Portfolio](https://img.shields.io/badge/Portfolio-oniko.space-DC143C?style=for-the-badge&logo=world&logoColor=white)](https://www.oniko.space)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oniko.dev-DC143C?style=for-the-badge&logo=world&logoColor=white)](https://www.oniko.dev)
 
 
 ### 🤝 **Open for Collaborations & Project Inquiries**
